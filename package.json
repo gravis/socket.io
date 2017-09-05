@@ -13,10 +13,10 @@
   ],
   "dependencies": {
     "debug": "*",
-    "engine.io": "0.4.3",
+    "engine.io": "1.8.3",
     "socket.io-parser": "1.0.2",
-    "socket.io-client": "1.0.0",
-    "send": "~0.1.0"
+    "socket.io-client": "1.7.3",
+    "send": "~0.11.1"
   },
   "devDependencies": {
     "mocha": "*",
